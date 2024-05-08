@@ -1,6 +1,9 @@
 # Taiyo.AI-Assignment-Front-End-Engineer
 
+# Contact Management App with Charts and Maps [Live Link](https://main--ubiquitous-khapse-1fabc0.netlify.app/chartsandmaps)
+
 This is a contact management app built with ReactJS, TailwindCSS, React Router v6 and React Query, which also includes a dashboard with charts and maps showing COVID-19 data.
+
 
 ## Objective
 
