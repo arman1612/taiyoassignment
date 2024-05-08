@@ -42,8 +42,6 @@ The following dependencies were used in this project:
 - leaflet
 - react-leaflet
 - tailwindCSS
-- ModuleCSS
-- ObjectCSS
 
 ## Features
 
