@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/taiyoassignment/static/css/main.b0b31055.css",
+    "main.js": "/taiyoassignment/static/js/main.480256c5.js",
+    "index.html": "/taiyoassignment/index.html",
+    "main.b0b31055.css.map": "/taiyoassignment/static/css/main.b0b31055.css.map",
+    "main.480256c5.js.map": "/taiyoassignment/static/js/main.480256c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0b31055.css",
+    "static/js/main.480256c5.js"
+  ]
+}
